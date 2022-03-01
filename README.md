@@ -5,7 +5,7 @@ This is a Docker image that allows you to run [python-kasa/python-kasa](https://
 ## Usage
 
 ```bash
-docker run --rm --network host jtmotox/python-kasa-docker <command>
+docker run --rm --network host jtmotox/python-kasa <command>
 ```
 
 Substitute ```<command>```(optional) with any of the python-kasa commands.
