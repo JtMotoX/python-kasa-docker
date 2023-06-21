@@ -1,6 +1,6 @@
 # python-kasa Docker
 
-This is a Docker image that allows you to run [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) with a single command.
+This is a lightweight (~22mb compressed) Docker image that allows you to run [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) with a single command.
 
 ## Usage
 
